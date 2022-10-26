@@ -1,0 +1,37 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+end
+keys palettePagePartItems
+	creature_parts~!ce_details_bump_01
+	creature_parts~!ce_details_playful_01
+	creature_parts~!ce_details_crystal_01
+	creature_parts~!ce_details_feather_01
+	creature_parts~!ce_details_flora_01
+	creature_parts~!ce_details_hair_01-symmetric
+	creature_parts~!ce_details_armor_01
+	creature_parts~!ce_details_armor_05
+	creature_parts~!ce_movement_fin_ventral_01-symmetric
+	creature_parts~!ce_details_wing_01-symmetric
+end
+key palettePagePartParentPage cake_editor_palette_pages~!ce_page_detail

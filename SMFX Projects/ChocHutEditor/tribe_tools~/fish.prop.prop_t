@@ -1,0 +1,24 @@
+key parent tribe_tools~!defaulttool.prop
+texts blockName
+	(ta!0x05b08b03) "Fishing Spears"
+end
+key itemNotUnlockableIcon 0x06284B8C
+key itemUnlockableIcon 0x06284B8C
+keys modelMainAbilityList
+	tribe_fish1
+end
+key modelMeshLOD0 toolfish1!tt_fish_home_01.rw4
+int32 modelPrice 20
+key paletteItemHeaderIconID 0x06284B8C
+key toolAbility tribeabilities!tribe_fish1
+key toolDamageHiKey TribalTools!tt_fish_home_01_dmghi
+key toolDamageLoKey TribalTools!tt_fish_home_01_dmglo
+key toolDamageMdKey TribalTools!tt_fish_home_01_dmgmd
+uint32 toolData_DefaultToolIdle 0x05f10a22
+uint32 toolData_GrasperOverlay 0x05f08fa3
+uint32 toolData_IconID 0x409287e0
+uint32 toolData_LookaroundToolIdle 0x03cdacc5
+key toolData_RackModelKey TribalTools!tt_fish_home_01
+uint32 toolData_ToolClass 3
+uint32 toolData_ToolType 8
+float tribeToolHealth 200

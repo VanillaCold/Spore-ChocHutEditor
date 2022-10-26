@@ -1,0 +1,19 @@
+key parent CreatureEditorTemplates!prop
+texts blockName
+	"Animal Skull"
+end
+key itemUnlockEffect 0xB99F3FA9
+float itemUnlockFindPercentage 0
+bool modelCanBeParentless true
+int32 modelComplexityScore 0
+bool modelExtraJiggly true
+float modelMaxScale 20
+key modelMeshLOD0 aanimations!0x29BFCE2E.rw4
+float modelMinScale 0.08
+int32 modelPrice 0
+int32 modelRunTimeBoneCount 1
+float modelScale 0.7
+keys modelTypesNotToInteractWith
+end
+bool modelUseSkin false
+float modelZCorpMinScale 100

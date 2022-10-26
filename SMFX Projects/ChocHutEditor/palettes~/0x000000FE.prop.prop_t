@@ -1,0 +1,4 @@
+key parent Adventure_brushes~!TemplatePalettePaint.prop
+string16 description "Hut Editor Paint Palette"
+int32 palettePaletteStartupCategory 0
+key palettePaletteThumbnailGroupID HutPaintIcons!0xFFFFFFFF

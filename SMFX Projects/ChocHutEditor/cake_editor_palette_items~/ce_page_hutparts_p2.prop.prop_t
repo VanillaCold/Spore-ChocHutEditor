@@ -1,0 +1,19 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	1
+end
+int32s palettePagePartItemRows
+	0
+	6
+	7
+	6
+end
+keys palettePagePartItems
+	creature_parts~!he_straw_top
+	creature_parts~!he_yurt_base_unpainted
+	creature_parts~!he_fabric_smallstick_unpainted
+	creature_parts~!he_yurt_top_unpainted
+end
+key palettePagePartParentPage cake_editor_palette_pages~!hutparts_p2

@@ -1,0 +1,25 @@
+key parent CreatureEditorTemplates!hut
+texts blockName
+	"Hut Enterance Cloth"
+end
+key itemUnlockEffect 0xB99F3FA9
+float itemUnlockFindPercentage 0
+bool modelCanBeParentless true
+int32 modelComplexityScore 0
+bool modelExtraJiggly true
+float modelMaxScale 20
+key modelMeshLOD0 editor_rigblocks~!he_cloth.rw4
+vector3 modelSwatchRotation (0,0,90)
+float modelMinScale 1
+bool modelOrientToSurfaces true
+int32 modelPrice 0
+int32 modelRunTimeBoneCount 1
+float modelScale 1
+keys modelTypesToInteractWith
+end
+keys modelTypesNotToInteractWith
+end
+#float mouthPriority 2
+#key mouthtype BHD
+bool modelUseSkin false
+float modelZCorpMinScale 100

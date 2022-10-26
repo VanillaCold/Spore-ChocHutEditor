@@ -1,0 +1,10 @@
+floats modelLODDistances
+	50
+	100
+	800
+end
+vector3 modelPaintDecalParams (20, 0, 1)
+key modelPaintDecalTexture 0x9D46249F
+float modelScale 1.7
+key paletteItemType 0x7B67F192
+#key paletteItemType 0x2B885DF4

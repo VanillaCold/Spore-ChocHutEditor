@@ -1,0 +1,43 @@
+int32s palettePagePartItemColumns
+	2
+	1
+	0
+	2
+	1
+	0
+	2
+	1
+	0
+	2
+	1
+	0
+end
+int32s palettePagePartItemRows
+	1
+	1
+	1
+	3
+	3
+	3
+	5
+	5
+	5
+	7
+	7
+	7
+end
+keys palettePagePartItems
+	creature_parts~!ce_hut
+	creature_parts~!ce_huts
+	creature_parts~!ce_hutt
+	creature_parts~!ce_hut2
+	creature_parts~!ce_huts2
+	creature_parts~!ce_hutt2
+	creature_parts~!ce_hut3
+	creature_parts~!ce_huts3
+	creature_parts~!ce_hutt3
+	creature_parts~!ce_hut4
+	creature_parts~!ce_huts4
+	creature_parts~!ce_hutt4
+end
+key palettePagePartParentPage cake_editor_palette_pages~!huts

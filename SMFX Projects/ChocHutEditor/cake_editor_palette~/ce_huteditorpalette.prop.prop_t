@@ -1,0 +1,8 @@
+keys palettePalettePages
+	cake_editor_palette_pages~!huts
+	cake_editor_palette_pages~!hutparts_p1
+	cake_editor_palette_pages~!decals
+	cake_editor_palette_pages~!banners
+	cake_editor_palette_pages~!huts_p2
+	cake_editor_palette_pages~!hutparts_p2
+end

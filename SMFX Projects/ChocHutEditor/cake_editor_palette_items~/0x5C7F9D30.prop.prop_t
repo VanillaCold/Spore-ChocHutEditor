@@ -1,0 +1,22 @@
+int32s palettePagePartItemColumns
+	2
+	2
+	2
+	2
+	2
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+	4
+end
+keys palettePagePartItems
+	creature_parts~!ce_sense_eye_simple_03-symmetric
+	creature_parts~!ce_sense_eye_bug_03-symmetric
+	creature_parts~!ce_sense_eye_weird_03-symmetric
+	creature_parts~!ce_sense_eye_mammal_03-symmetric
+	creature_parts~!ce_sense_eye_dino_03-symmetric
+end
+key palettePagePartParentPage hut_editor_palette_pages!ce_page_sense

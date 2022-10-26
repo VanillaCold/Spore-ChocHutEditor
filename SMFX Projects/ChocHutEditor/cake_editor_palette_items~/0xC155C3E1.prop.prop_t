@@ -1,0 +1,16 @@
+int32s palettePagePartItemColumns
+	1
+	1
+	1
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+end
+keys palettePagePartItems
+	creature_parts~!ce_weapon_antler_02-symmetric
+	creature_parts~!ce_weapon_horn_02-symmetric
+	creature_parts~!ce_weapon_range_liquid_02
+end
+key palettePagePartParentPage 0xBCA529F!ce_page_weapon

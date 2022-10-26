@@ -1,0 +1,40 @@
+key parent CreatureEditorTemplates!creatureRigblockTemplate
+string16 description "unknown hut base"
+float creatureExtentsContributionScale 0.15
+bool modelCanBeParentless true
+key iconLarge partunlock~!CRGdetail.png
+key iconSmall partunlock~!CRGdetailsm.png
+key itemUnlockEffect CRG_partUnlock_detail
+bool modelCanBeParentless true
+bool modelCircularTopAlignment false
+int32 modelBakeLevel 2
+bool modelDoNotFlipBasedOnSurfaceNormalOnPlaneOfSymmetry true
+keys modelHandleKeys
+#<	DeformAxisLeft
+	DeformAxisForward
+	DeformAxisUp#>
+end
+keys modelHandlePlacementTypesTemplate
+#<	DeformAxisLeft!Preserveall
+	DeformAxisForward!Preserveall
+	DeformAxisUp!Preserveall#>
+end
+string8s modelHandleStretchSounds
+	"creature_x"
+	"creature_y"
+	"creature_z"
+end
+keys modelTypesToInteractWith
+end
+keys modelTypesNotToInteractWith
+end
+#vector3 modelOffset (0,0,-1)
+bool modelActsLikeFoot false
+bool modelActsLikeGrasper false
+bool modelIsAllowedOutOfBounds false
+bool modelHasRotationBallHandle true
+bool modelOrientToSurfaces false
+key modelPinningType PinningGeometry!PinningNormal
+key modelRigBlockType creature!detail
+key modelRotationRingYAxis ui_rotateringcreature
+vector3 modelSwatchRotation (0, 0, 0)

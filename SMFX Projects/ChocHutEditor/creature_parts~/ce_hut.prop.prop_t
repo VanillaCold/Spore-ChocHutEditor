@@ -1,0 +1,25 @@
+key parent CreatureEditorTemplates!hut
+texts blockName
+	"Large Herbivore Hut"
+end
+key itemUnlockEffect 0xB99F3FA9
+float itemUnlockFindPercentage 0
+bool modelCanBeParentless true
+int32 modelComplexityScore 0
+bool modelExtraJiggly true
+float modelMaxScale 20
+keys modelEffect
+	0xAA2C2C8D
+	0x17F92B56
+end
+int32 modelCapabilityMouth 1
+key modelMeshLOD0 editor_rigblocks~!he__yurt_03.rw4
+float modelMinScale 0.08
+int32 modelCapabilityHerbivorous 1
+int32 modelPrice 0
+int32 modelRunTimeBoneCount 1
+float modelScale 0.7
+keys modelTypesNotToInteractWith
+end
+bool modelUseSkin false
+float modelZCorpMinScale 100

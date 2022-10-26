@@ -1,0 +1,19 @@
+key parent hutstyles!he_Template.prop
+string16 description "canvas 2"
+key hutDamageHiKey he_canvas_2_dmghi
+key hutDamageLoKey he_canvas_2_dmglo
+key hutDamageMdKey he_canvas_2_dmgmd
+float modelBoundingRadius 6.7800002
+keys modelEffect
+	0xAA2C2C8E
+	0x9AEAE354
+end
+float modelEffectRange 100
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ 0 -0 0
+	-offset (0, 0, 2.4000001) -scale 1 -rotateXYZ 0 -0 0
+end
+key modelMeshLOD0 editor_rigblocks~!he_canvas_02.rw4
+key modelMeshLOD1 editor_rigblocks~!he_canvas_02_LOD1.rw4
+key modelMeshLOD2 editor_rigblocks~!he_canvas_02_LOD2.rw4
+#key paletteItemType 0x7B67F192

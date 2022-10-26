@@ -1,0 +1,46 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+	0
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	0
+	1
+	1
+	1
+	1
+	2
+	2
+	2
+	2
+	3
+end
+keys palettePagePartItems
+	creature_parts~!ce_eggs
+	creature_parts~!ce_animals
+	creature_parts~!ce_fence
+	creature_parts~!ce_skull
+	creature_parts~!ce_bucket
+	creature_parts~!ce_bag
+	creature_parts~!ce_platter
+	creature_parts~!ce_sticks
+	creature_parts~!ce_stick
+	creature_parts~!ce_table
+	creature_parts~!ce_materials
+	creature_parts~!ce_pot
+	creature_parts~!ce_hut_destroyed
+end
+key palettePagePartParentPage cake_editor_palette_pages~!decals

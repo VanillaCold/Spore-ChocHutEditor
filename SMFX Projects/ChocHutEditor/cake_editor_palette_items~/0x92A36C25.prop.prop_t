@@ -1,0 +1,16 @@
+int32s palettePagePartItemColumns
+	1
+	1
+	1
+end
+int32s palettePagePartItemRows
+	3
+	4
+	5
+end
+keys palettePagePartItems
+	creature_parts~!ce_weapon_range_solid_02
+	creature_parts~!ce_weapon_club_02
+	creature_parts~!ce_weapon_slasher_02-symmetric
+end
+key palettePagePartParentPage hut_editor_palette_pages!ce_page_weapon

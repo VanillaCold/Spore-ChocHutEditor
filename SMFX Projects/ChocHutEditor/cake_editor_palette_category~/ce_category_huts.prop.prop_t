@@ -1,0 +1,16 @@
+key parent Adventure_brushes~!0x0E904976.prop
+keys paletteCategoryIconList
+	images!hut_inactive.png
+	images!hut_inactive.png
+	images!hut_active.png
+	images!hut_active.png
+	images!hut_active.png
+	images!hut_inactive.png
+	images!hut_active.png
+	images!hut_active.png
+	images!hut_inactive.png
+end
+texts paletteCategoryName
+	"Huts"
+end
+uint32 paletteCategorySequenceNumber 0

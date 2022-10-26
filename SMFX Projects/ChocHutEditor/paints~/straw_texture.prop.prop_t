@@ -1,0 +1,13 @@
+key parent paints~!TemplateBlockPaint.prop
+colorRGB paintMaterialDefaultColor1 (0, 0, 0)
+colorRGB paintMaterialDefaultColor2 (0.67843, 0.509803, 0.321568)
+float paintMaterialCol1BlendFactor 0
+float paintMaterialCol2BlendFactor 0.75
+string16 description "hut"
+key paintMaterialDiffuse straw_texture__diffuse.rw4 #VE_Old_Car_Matte_01__diffuse.rw4
+string16 modelRigBlockAMTag "airship"
+float paintMaterialGlossiness 0
+key paintMaterialNMapSpec VE_Old_Car_Matte_01__specBump.rw4
+float paintMaterialSpecExponent 8
+float paintMaterialSpecStrength 0
+float paintMaterialBumpiness 0

@@ -1,0 +1,13 @@
+key parent editor_rigblocks~!GlobalRigblockTemplate.prop
+string16 description "unknown building rig block"
+bool modelCanBeParentless false
+bool modelIsAllowedOutOfBounds true
+key modelRigBlockType building!0xFFFFFFFF
+bool modelShouldCheckParentlessForValidation false
+bool modelSnapToParentCenter true
+string8 modelSoundMorphX "building_x"
+string8 modelSoundMorphY "building_y"
+string8 modelSoundMorphZ "building_z"
+string8 modelSoundRotation "creature_rotate"
+string8 modelSoundScale "building_part_size"
+bool modelWarpCursorToPinPoint true

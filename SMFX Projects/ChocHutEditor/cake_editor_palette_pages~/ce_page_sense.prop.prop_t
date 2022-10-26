@@ -1,0 +1,8 @@
+key parent Adventure_brushes~!TemplatePalettePartsPage.prop
+string16 description "Eyes & Senses"
+key paletteCategoryIcon editors_creature~!0xCABCBCB0.png
+float palettePageItemMaxPercentageHeight 0.11
+float palettePageItemPercentageWidth 0.25
+key palettePageParentCategory cake_editor_palette_category~!0x7F466450
+uint32 palettePageSequenceNumber 100
+int32 palettePageSetId 1

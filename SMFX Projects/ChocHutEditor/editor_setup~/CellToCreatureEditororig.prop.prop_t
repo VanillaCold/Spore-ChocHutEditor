@@ -1,0 +1,43 @@
+key parent editor_setup~!CreatureEditorSetup.prop
+string16 description "Creature Editor Large"
+key editorBackgroundModel cl_ce_editor_background
+float editorBoundSize 3
+key editorCameraUI EditorCameraCellToCreatureUI.prop
+float editorDaisRadius 5
+uint32 editorDaisType 0x2fe99727
+int32 editorDefaultInitialBudget 145
+int32 editorMaxBudget 999
+float editorMaxHeight 2
+float editorMinHeight 0
+key editorPaintPalette palettes~!0x0000000D.prop
+key editorPartsPalette palettes~!0x0000000E.prop
+key editorPedestalModel cl_ce_editor_dais
+key editorPlayModeEntryEffectID 0xFFFFFFFF!0xFFFFFFFF.0xFFFFFFFF
+key editorPlayModeExitEffectID 0xFFFFFFFF!0xFFFFFFFF.0xFFFFFFFF
+key editorSporepediaCanSwitchConfigID C2C_Shopper_CanSwitch
+key editorSporepediaConfigID C2C_Shopper
+keys editorStartupModel
+	creature_editorModel~!0x05E3DF13.crt
+	creature_editorModel~!a_01.crt
+	creature_editorModel~!a_02.crt
+	creature_editorModel~!a_03.crt
+	creature_editorModel~!a_04.crt
+	creature_editorModel~!a_05.crt
+	creature_editorModel~!a_06.crt
+	creature_editorModel~!a_07.crt
+	creature_editorModel~!a_08.crt
+	creature_editorModel~!a_10.crt
+	creature_editorModel~!a_11.crt
+	creature_editorModel~!a_12.crt
+	creature_editorModel~!a_13.crt
+	creature_editorModel~!a_14.crt
+	creature_editorModel~!a_15.crt
+	creature_editorModel~!a_16.crt
+end
+bool editorSubtractPartsCostOnLoad true
+key editorSwatchBackgroundModel animations~
+key editorSwatchPedestalModel animations~
+key editorTransition EditorTransitions!DefaultTransition
+key editorTutorialPaintMode CLESporeGuidePaint
+key editorTutorialPartMode CLESporeGuidePart
+key editorTutorialPlayMode CLESporeGuidePart

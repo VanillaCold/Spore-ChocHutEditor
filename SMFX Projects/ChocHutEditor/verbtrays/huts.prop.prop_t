@@ -1,0 +1,18 @@
+key parent verbtrays!0x2447A483
+key verbIconAlertID starvivore
+bool verbIconShowLevel false
+keys verbIcons
+	carnivore
+	herbivore
+	omnivore
+	starvivore
+end
+texts verbTrayDescription
+	"Hut"
+end
+key verbTrayIconID stats_meat_icon
+texts verbTrayName
+	"Hut"
+end
+bool verbTrayShowVerbIconWhenCollapsed true
+key verbTraySoundKey diet

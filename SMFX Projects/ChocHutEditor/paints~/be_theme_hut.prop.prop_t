@@ -1,0 +1,11 @@
+string16 description "BE_Theme_Hut"
+colorRGBAs paintThemeColor1s
+	(1, 1, 1, 1)
+end
+colorRGBAs paintThemeColor2s
+	(1, 1, 1, 1)
+end
+keys paintThemePaints
+	hut
+end
+key paletteItemType ItemBlockPaintTheme

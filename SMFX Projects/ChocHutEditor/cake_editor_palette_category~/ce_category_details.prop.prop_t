@@ -1,0 +1,16 @@
+key parent Adventure_brushes~!0x0E904976.prop
+keys paletteCategoryIconList
+	editors_creature~!button-detail-norm.png
+	editors_creature~!button-detail-off.png
+	editors_creature~!button-detail-hl.png
+	editors_creature~!button-detail-act.png
+	editors_creature~!button-detail-on-norm.png
+	editors_creature~!button-detail-off.png
+	editors_creature~!button-detail-on-hl.png
+	editors_creature~!button-detail-on-act.png
+	editors_creature~!button-detail-norm.png
+end
+texts paletteCategoryName
+	(CE!0xde8f240b) "Details"
+end
+uint32 paletteCategorySequenceNumber 100

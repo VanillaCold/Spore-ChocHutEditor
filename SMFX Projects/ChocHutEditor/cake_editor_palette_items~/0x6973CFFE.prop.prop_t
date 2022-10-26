@@ -1,0 +1,52 @@
+int32s palettePagePartItemColumns
+	3
+	3
+	3
+	3
+	3
+	2
+	3
+	2
+	3
+	2
+	3
+	2
+	3
+	2
+	3
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+	4
+	5
+	5
+	6
+	6
+	7
+	7
+	8
+	8
+	9
+	9
+end
+keys palettePagePartItems
+	creature_parts~!ce_details_bump_04
+	creature_parts~!ce_details_playful_04
+	creature_parts~!ce_details_crystal_04
+	creature_parts~!ce_details_feather_04-symmetric
+	creature_parts~!ce_details_flora_04
+	creature_parts~!ce_details_hair_03
+	creature_parts~!ce_details_hair_04-symmetric
+	creature_parts~!ce_details_armor_03
+	creature_parts~!ce_details_armor_04-symmetric
+	creature_parts~!ce_details_armor_07-symmetric
+	creature_parts~!ce_details_armor_08-symmetric
+	creature_parts~!ce_movement_fin_ventral_03-symmetric
+	creature_parts~!ce_movement_fin_ventral_04-symmetric
+	creature_parts~!ce_details_wing_03-symmetric
+	creature_parts~!ce_details_wing_04-symmetric
+end
+key palettePagePartParentPage hut_editor_palette_pages!ce_page_detail

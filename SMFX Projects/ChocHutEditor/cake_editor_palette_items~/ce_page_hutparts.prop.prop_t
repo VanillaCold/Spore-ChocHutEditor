@@ -1,0 +1,43 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	0
+	1
+	2
+	2
+	0
+	1
+	0
+	1
+	0
+	1
+end
+int32s palettePagePartItemRows
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	4
+	4
+end
+keys palettePagePartItems
+	creature_parts~!he_cloth
+	creature_parts~!he_cloth_02
+	creature_parts~!he_fabric_top
+	creature_parts~!he_fabric_smallstick
+	creature_parts~!he_fabric_wall
+	creature_parts~!he_yurt_base
+	creature_parts~!he_yurt_top
+	creature_parts~!he_yurt_window
+	creature_parts~!he_simple_top
+	creature_parts~!he_simple_door
+	creature_parts~!he_timber_wall
+	creature_parts~!he_timber_top
+end
+key palettePagePartParentPage cake_editor_palette_pages~!hutparts_p1

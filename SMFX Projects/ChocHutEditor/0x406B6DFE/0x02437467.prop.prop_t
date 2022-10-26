@@ -1,0 +1,22 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	3
+	0
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	0
+	1
+end
+keys palettePagePartItems
+	paints~!VE_Old_Car_Matte_01
+	paints~!straw_texture
+	paints~!yurt_texture
+	paints~!yurt_stone
+	paints~!yurt_wood
+end
+key palettePagePartParentPage huts_p1

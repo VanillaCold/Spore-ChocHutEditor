@@ -1,0 +1,75 @@
+key parent editor_setup~!MineralTemplate.prop
+string16 description "Building Editor Setup"
+float ThumbnailLowering 0.4
+key editorBackgroundModel be_editor_base_ui_style_background
+key editorBackgroundMusicPatch music_building_editor
+float editorBoundSize 40
+texts editorBudgetTooltip
+	(tooltips!0x064d2884) "Building Budget (PLACEHOLDER)"
+end
+key editorBuyItemEffectID 0xBF9B3D47
+key editorCameraThumbnail HutEditorThumbnail.prop
+key editorCameraUI HutEditorCam.prop
+int32 editorComplexityLimit 250
+uint32 editorCurrencyChar 9868
+key editorCurrencyIcon ufotools~!0x3EF04228.png
+int32 editorDefaultInitialBudget 50000
+texts editorDefaultModelName
+	"Name Your Hut"
+end
+key editorDefaultPaintTheme paints~!be_theme_hut
+uint32s editorDefaultSkinPaintScripts
+	hash(skinpaint_base_blankMatte)
+	hash(skinpaint_coat_blank)
+	hash(skinpaint_detail_blank)
+end
+key editorDeformHandleTuningFile HandleTuning!BuildingDeformHandle
+keys editorEnabledManipulators
+	0x6125EE88
+	cSPEditorManipulationPinning
+	0x67B68E4D
+	cSPEditorManipulationLimb
+	cSPEditorManipulationBoneRotation
+	cSPEditorManipulationStackingSimple
+	cSPEditorManipulationTranslateCreature
+	cSPEditorManipulationDeformHandle
+	cSPEditorManipulationRotationHandle
+	cSPEditorManipulationSpineScaling
+end
+key editorEscrowEffectID None
+key editorLight BuildingEditor
+key verbTrayCollection verbtrays!HUT_VerbTrayCollection
+int32 editorMaxBudget 99999
+float editorMaxGeomScore 35
+float editorMaxHeight 40
+float editorMinHeight 0
+float editorMinPlayableDepth 0
+float editorMinPlayableHeightAboveGround 1
+float editorMinPlayableWidth 0.5
+uint32 editorModelTranslationOptions 38
+keys editorModelTypes
+	BuildingHouse
+end
+texts editorName
+	"Hut"
+end
+key editorPaintSwatchModel creature_editorModel~!PaintBuddy.crt
+key editorPartsPalette palettes~!0x000000FF.prop
+key editorPedestalModel be_editor_base_ui_style
+key editorRandomNameType 0x03DEE114
+key editorSaveDirectory 0x011AC19A!0xFFFFFFFF
+key editorSaveExtension 0xFFFFFFFF.bld
+key editorSellItemEffectID 0xBA1CC01F
+key editorSporepediaCanSwitchConfigID 0x20830D39
+key editorSporepediaConfigID ble_TemplateShopper
+bool editorSubtractPartsCostOnLoad true
+key editorSwatchBackgroundModel be_editor_base_ui_style_background
+key editorSwatchBackgroundMusicPatch music_building_editor_shopping
+key editorSwatchCameraUI HutEditorCam.prop
+key editorSwatchPedestalModel be_editor_base_ui_style
+key editorTutorialPlayMode bleSporeguide
+bool editorUseShadows true
+bool editorUseSkin false
+bool editorUseSpine false
+bool editorUseSymmetry false
+uint32 editorViewableComplexityFlags 11

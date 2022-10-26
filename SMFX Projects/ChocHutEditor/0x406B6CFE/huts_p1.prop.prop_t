@@ -1,0 +1,5 @@
+key parent Adventure_brushes~!TemplatePaletteBlockPaint.prop
+string16 description "Basic"
+key palettePageParentCategory 0x406B6EFE!be_category_paintbrush_mode
+uint32 palettePageSequenceNumber 100
+int32 palettePageSetId 1

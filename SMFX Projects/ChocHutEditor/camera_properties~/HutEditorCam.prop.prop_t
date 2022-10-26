@@ -1,0 +1,13 @@
+string16 description "HutEditorCam"
+float cameraInitialHeading -50
+float cameraInitialOffsetX 1.2
+float cameraInitialOffsetY 0.65
+float cameraInitialPitch -8.6000004
+float cameraInitialZoom 5
+float cameraMaxPitch 5
+float cameraMaxZoomDistance 12.5
+float cameraMinPitch -55
+float cameraMinZoomDistance 2.5
+string16 cameraName "HutEditorCam"
+float cameraNearClip 1
+uint32 cameraType 0x00fcc521

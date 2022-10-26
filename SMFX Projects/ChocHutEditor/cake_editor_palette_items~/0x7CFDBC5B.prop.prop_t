@@ -1,0 +1,34 @@
+int32s palettePagePartItemColumns
+	3
+	3
+	3
+	2
+	3
+	2
+	3
+	2
+	3
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+	3
+	4
+	4
+	5
+	5
+end
+keys palettePagePartItems
+	creature_parts~!ce_weapon_antler_04-symmetric
+	creature_parts~!ce_weapon_horn_04-symmetric
+	creature_parts~!ce_weapon_range_liquid_04
+	creature_parts~!ce_weapon_range_solid_03
+	creature_parts~!ce_weapon_range_solid_04
+	creature_parts~!ce_weapon_club_03-symmetric
+	creature_parts~!ce_weapon_club_04
+	creature_parts~!ce_weapon_slasher_03-symmetric
+	creature_parts~!ce_weapon_slasher_04-symmetric
+end
+key palettePagePartParentPage hut_editor_palette_pages!ce_page_weapon

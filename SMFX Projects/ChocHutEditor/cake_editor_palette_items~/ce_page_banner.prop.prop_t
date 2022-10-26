@@ -1,0 +1,16 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+end
+keys palettePagePartItems
+	creature_parts~!ce_flag1
+	creature_parts~!ce_flag2
+	creature_parts~!ce_flag3
+end
+key palettePagePartParentPage cake_editor_palette_pages~!banners

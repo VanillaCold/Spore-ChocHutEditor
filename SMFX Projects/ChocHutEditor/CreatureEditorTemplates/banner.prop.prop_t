@@ -1,0 +1,32 @@
+key parent CreatureEditorTemplates!creatureRigblockTemplate
+string16 description "unknown hut banner"
+float creatureExtentsContributionScale 0.15
+key iconLarge partunlock~!CRGdetail.png
+key iconSmall partunlock~!CRGdetailsm.png
+key itemUnlockEffect CRG_partUnlock_detail
+int32 modelBakeLevel 2
+bool modelDoNotFlipBasedOnSurfaceNormalOnPlaneOfSymmetry true
+keys modelHandleKeys
+#<	DeformAxisLeft
+	DeformAxisForward
+	DeformAxisUp#>
+end
+keys modelHandlePlacementTypesTemplate
+#<	DeformAxisLeft!Preserveall
+	DeformAxisForward!Preserveall
+	DeformAxisUp!Preserveall#>
+end
+string8s modelHandleStretchSounds
+	"creature_x"
+	"creature_y"
+	"creature_z"
+end
+bool modelIsAllowedOutOfBounds false
+bool modelHasRotationBallHandle true
+bool modelOrientToSurfaces true
+key modelPinningType PinningGeometry!PinningNormal
+key modelRigBlockType creature!detail
+key modelRotationRingYAxis ui_rotateringcreature
+vector3 modelSwatchRotation (0, 0, 0)
+keys modelTypesNotToInteractWith
+end

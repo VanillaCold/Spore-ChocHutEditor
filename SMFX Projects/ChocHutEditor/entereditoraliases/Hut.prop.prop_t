@@ -1,0 +1,5 @@
+#The names of the .prop files in this folder (entereditoraliases) are all aliases.
+#The "Alias" property dictates what editor to send the player to when this alias is used.
+#It works like this: "key Alias editor_setup~![name of editor's .prop file]"  
+key Alias editor_setup~!huteditor
+string16 AliasName "'Hut' - Loads the hut editor."

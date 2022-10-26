@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="HutEditor-ModAPI">
+      <UniqueIdentifier>{3880d018-2395-4502-abfe-4b83e0817aab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Internal">
+      <UniqueIdentifier>{d62ad12d-69d8-4933-8342-03043c9adc22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HutEditor-ModAPI\Asset type">
+      <UniqueIdentifier>{3cee0a2e-9a0f-42f4-aa9e-b9247e4adcba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>Internal</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Internal</Filter>
+    </ClInclude>
+    <ClInclude Include="MyWinProc.h">
+      <Filter>HutEditor-ModAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="HutEditor.h">
+      <Filter>HutEditor-ModAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="SwapHut.h">
+      <Filter>HutEditor-ModAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="HutAsset.h">
+      <Filter>HutEditor-ModAPI\Asset type</Filter>
+    </ClInclude>
+    <ClInclude Include="HutAssetData.h">
+      <Filter>HutEditor-ModAPI\Asset type</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>HutEditor-ModAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Internal</Filter>
+    </ClCompile>
+    <ClCompile Include="MyWinProc.cpp">
+      <Filter>HutEditor-ModAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="HutEditor.cpp">
+      <Filter>HutEditor-ModAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="SwapHut.cpp">
+      <Filter>HutEditor-ModAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="HutAsset.cpp">
+      <Filter>HutEditor-ModAPI\Asset type</Filter>
+    </ClCompile>
+    <ClCompile Include="HutAssetData.cpp">
+      <Filter>HutEditor-ModAPI\Asset type</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SdkPathConfig.props" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>Internal</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,52 @@
+int32s palettePagePartItemColumns
+	3
+	3
+	3
+	3
+	3
+	2
+	3
+	2
+	3
+	2
+	3
+	2
+	3
+	2
+	3
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+	4
+	5
+	5
+	6
+	6
+	7
+	7
+	8
+	8
+	9
+	9
+end
+keys palettePagePartItems
+	creature_parts~!ce_sense_eye_simple_04-symmetric
+	creature_parts~!ce_sense_eye_bug_04-symmetric
+	creature_parts~!ce_sense_eye_weird_04-symmetric
+	creature_parts~!ce_sense_eye_mammal_04-symmetric
+	creature_parts~!ce_sense_eye_dino_04-symmetric
+	creature_parts~!ce_sense_eye_stalk_03-symmetric
+	creature_parts~!ce_sense_eye_stalk_04-symmetric
+	creature_parts~!ce_sense_nose_03
+	creature_parts~!ce_sense_nose_04
+	creature_parts~!ce_sense_antenna_03-symmetric
+	creature_parts~!ce_sense_antenna_04-symmetric
+	creature_parts~!ce_sense_ear_side_03-symmetric
+	creature_parts~!ce_sense_ear_side_04-symmetric
+	creature_parts~!ce_sense_ear_top_03-symmetric
+	creature_parts~!ce_sense_ear_top_04-symmetric
+end
+key palettePagePartParentPage hut_editor_palette_pages!ce_page_sense

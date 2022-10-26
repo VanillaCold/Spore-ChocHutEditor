@@ -1,0 +1,16 @@
+key parent Adventure_brushes~!0x0E904976.prop
+keys paletteCategoryIconList
+	images!banner.png
+	images!banner.png
+	images!banner_active.png
+	images!banner_active.png
+	images!banner_active.png
+	images!banner.png
+	images!banner_active.png
+	images!banner_active.png
+	images!banner.png
+end
+texts paletteCategoryName
+	"Banners"
+end
+uint32 paletteCategorySequenceNumber 3

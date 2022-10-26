@@ -1,0 +1,8 @@
+key parent Adventure_brushes~!TemplatePalettePartsPage.prop
+string16 description "Huts"
+key paletteCategoryIcon editors_creature~!0x89DF2831.png
+float palettePageItemMaxPercentageHeight 0.11
+float palettePageItemPercentageWidth 0.25
+key palettePageParentCategory cake_editor_palette_category~!ce_category_huts.prop
+uint32 palettePageSequenceNumber 100
+int32 palettePageSetId 1
